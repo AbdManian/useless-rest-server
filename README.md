@@ -2,4 +2,4 @@
 This is a useless REST API server using Python3!
 
 ## Dependecies
-Only Python3!
+ - python3
