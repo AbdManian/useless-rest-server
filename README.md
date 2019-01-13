@@ -1,2 +1,5 @@
-# useless-rest-server
-This is a useless REST API server using Python3
+# Useless REST Server
+This is a useless REST API server using Python3!
+
+## Dependecies
+Only Python3!
